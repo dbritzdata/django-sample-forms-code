@@ -14,3 +14,10 @@ The full project scaffolding (settings, base templates, static) isn’t included
 Core app code (models, forms, urls, templates) from my Codecademy project. Full project wrapper (settings/templates/static) to be added later.
 
 ![Form screenshot](StatesAndAttractions_Screen.jpg)
+
+## Browse the code
+- Models (models.py)
+- Forms [hr/forms.py]
+- Urls [hr/urls.py]
+- Base HTML template [templates/base.html]
+- Home Page Template (templates/home.html)
