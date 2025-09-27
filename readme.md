@@ -18,6 +18,6 @@ Core app code (models, forms, urls, templates) from my Codecademy project. Full 
 ## Browse the code
 [Models](models.py)
 [Forms](forms.py)
-[Urls] (urls.py)
-[Home Page] (home.html)
-[Base Page Template] (base.html)
+[Urls](urls.py)
+[Home Page](home.html)
+[Base Page Template](base.html)
