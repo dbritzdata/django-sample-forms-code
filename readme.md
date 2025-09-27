@@ -16,8 +16,13 @@ Core app code (models, forms, urls, templates) from my Codecademy project. Full 
 ![Form screenshot](StatesAndAttractions_Screen.jpg)
 
 ## Browse the code
-[Models](models.py)
+<p>[Models](models.py)
+
 [Forms](forms.py)
+
 [Urls](urls.py)
+
 [Home Page](home.html)
+
 [Base Page Template](base.html)
+
