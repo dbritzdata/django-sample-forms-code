@@ -13,7 +13,9 @@ The full project scaffolding (settings, base templates, static) isn’t included
 # HR Manager (Django) — Code Snapshot
 Core app code (models, forms, urls, templates) from my Codecademy project. Full project wrapper (settings/templates/static) to be added later.
 
-![Form screenshot](StatesAndAttractions_Screen.jpg)
+(Screen1.jpg)
+(Screen2.jpg)
+(Screen3.jpg)
 
 ## Browse the code
 
